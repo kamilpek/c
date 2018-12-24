@@ -22,4 +22,4 @@ int sum(int x[], int y[], int z){
   for(count = 0; count < z; count++)
     summ += x[count] + y[count];
   return summ;
-}
+} 
